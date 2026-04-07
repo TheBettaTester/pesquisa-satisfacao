@@ -1,6 +1,8 @@
 # 📊 Sistema de Pesquisa de Satisfação
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)  
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-green)  
 ![Tema](https://img.shields.io/badge/tema-pesquisa-orange)
 
